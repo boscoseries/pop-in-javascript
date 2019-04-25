@@ -1,0 +1,21 @@
+{
+  "name": "pop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "robot.js",
+  "scripts": {
+    "start": "node robot.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boscoseries/pop-in-javascript.git"
+  },
+  "keywords": [],
+  "author": "Johnbosco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boscoseries/pop-in-javascript/issues"
+  },
+  "homepage": "https://github.com/boscoseries/pop-in-javascript#readme"
+}
